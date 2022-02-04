@@ -1,0 +1,9 @@
+  <div>
+            <div class="form-group">
+                <asp:Label ID="Label1" runat="server" Text="Label" cl> Multiplex Name</asp:Label>
+                <div class="input-group">
+                    <span class="input-group-addon">dsfd</span>
+                    <asp:TextBox ID="txtMultiplexName" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
+            </div>
+        </div>
